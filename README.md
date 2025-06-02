@@ -1,3 +1,3 @@
 Công cụ chuyển đổi teencode sang tiếng Việt
 
-demo : https://teencode.vip
+demo : https://dl4drive.com/teencode/
